@@ -1,6 +1,6 @@
  <!-- MODELO PROJETO EM ANDAMENTO -->
 <h1 align="center"> 
-	🚧 10_interactive-rating-component-main - Em contrução 🚧
+	🚧 interactive-rating-component-main - Em contrução 🚧
 </h1>
 
   <!-- MODELO PROJETO FINALIZADO -->
